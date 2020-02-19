@@ -43,13 +43,13 @@ main();
 
 
 // const main = () => {
-//   const result = [];  // question? why const can change value ,hint data type pass by of array is ...
+//   const result = [];  // question? why const can change value ,hint data type of array pass by ..., hint value in ram is ...
 //   dataOne.forEach(data1 => {
 //     let duplicate = false;
 //     dataTwo.forEach(data2 => {
 //       if (data1.code === data2.code) duplicate = true;
 //     });
-//     if (!duplicate) result.push(data1) // question? why const can change value ,hint data type pass by of array is ...
+//     if (!duplicate) result.push(data1) // question? why const can change value ,hint data type of array pass by ..., hint value in ram is ...
 //   });
 //   console.log(result)
 // };
